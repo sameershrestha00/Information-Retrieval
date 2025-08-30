@@ -1,0 +1,26 @@
+
+Sample College Information Document
+
+College Name: Tech University
+Establishment Year: 1985
+Location: Silicon Valley, California
+
+About the College:
+Tech University is a premier educational institution established in 1985. 
+The college offers undergraduate and graduate programs in computer science, 
+engineering, and technology-related fields.
+
+The college has state-of-the-art facilities including modern laboratories,
+research centers, and a comprehensive library. Students from around the 
+world come to study at this prestigious institution.
+
+Programs Offered:
+- Computer Science
+- Software Engineering  
+- Data Science
+- Artificial Intelligence
+- Cybersecurity
+
+The college is known for its innovative curriculum and strong industry
+partnerships that provide students with practical experience and job
+opportunities upon graduation.
